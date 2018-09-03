@@ -18,9 +18,9 @@ Individual files such as images or notes should be stored in folder *individualF
 * Fork the team repo into your own GitHub account (Let's call it individual repo). If you have forked it, pull it at the start of every week to keep your repo updated.
 * Clone your individual repo onto your desktop. When you want to update your individual repo with the latest changes fom the team repo, pull directly from the team repo into your LOCAL repo, then push from your LOCAL repo to your INDIVIDUAL repo on Git.
 * Fetch the team repo at the start of the week to get all the remote branches of the team repo.
-  * `git fetch https://github.com/IS3106-T07/Enterprice-Systems-Interface`
+  * `git fetch https://github.com/IS3106-T07/Enterprise-Systems-Interface`
 * Pull the weekly branch regularly to keep your local repo updated.
-  * `git pull https://github.com/IS3106-T07/Enterprice-Systems-Interface <branch_name>`: branch_name can be master or the name of the weekly branch.
+  * `git pull https://github.com/IS3106-T07/Enterprise-Systems-Interface <branch_name>`: branch_name can be master or the name of the weekly branch.
 * Make your own branch on your individual repo if you wish. Preferably, each new feature should have its own branch.
   * `git checkout -b <branch_name>`: this will check you out to the new branch
 * Make your changes in the individual repo. In your changes, ensure:
