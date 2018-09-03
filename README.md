@@ -1,4 +1,4 @@
-# Enterprice-Systems-Interface
+# Enterprise-Systems-Interface
 
 This project aims to develop an enterprise systems interface
 
