@@ -1,3 +1,6 @@
+# webstorm setting file
+.idea/
+
 # Compiled class file
 *.class
 
